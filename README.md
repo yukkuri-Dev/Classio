@@ -12,6 +12,11 @@ Front : discord/discord.ext
 
 Data storage : json
 
+# component
+
+scp.py : scraping
+
+
 # Execution environment
 
 development : Windows10 Python 3.9.1
